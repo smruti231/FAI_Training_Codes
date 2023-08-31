@@ -1,4 +1,3 @@
-﻿using Proj1_SampleConApp;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
