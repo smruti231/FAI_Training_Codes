@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BookDB
+namespace Proj1_SampleConApp
     {
     class Utilities
         {
